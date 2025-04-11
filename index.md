@@ -6,4 +6,4 @@ layout: default
 
 Here is my image:
 
-![My Image](images/p3ayzh2t2tMvRbQyMzD31TA.png)
+![My Image](images/p3ayzhZ2tMvRbQyMzD31TA.png)
