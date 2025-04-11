@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Welcome to My Website
+# Welcome
 
 Here is my image:
 
-![My Photo](images/mypic.jpg)
+![My Image](images/p33yzh2t2tMvRbQyMzD31TA.png)
