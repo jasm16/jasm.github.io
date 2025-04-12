@@ -1,3 +1,10 @@
+### Education
+📍 Qaiwan International University – Software Engineering
+### Language 
+- Kurdish – Fluent / Native
+- English – intermediate / Conversational
+
+
 ---
 layout: default
 ---
@@ -7,3 +14,4 @@ layout: default
 Here is my image:
 
 ![My Image](images/p3ayzhZ2tMvRbQyMzD31TA.png)
+
