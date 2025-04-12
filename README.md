@@ -6,5 +6,6 @@
 - English – intermediate / Conversational
 
 - 
-![Description](images/p3ayzhZ2tMvRbQyMzD31TA.png)
+<img src="images/p3ayzhZ2tMvRbQyMzD31TA.png" alt="My Image" />
+
 
