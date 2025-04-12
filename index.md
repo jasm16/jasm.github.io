@@ -15,4 +15,4 @@ Here is my image:
 
 ![My Image](images/p3ayzhZ2tMvRbQyMzD31TA.png)
 
-<img src="path_to_your_image" alt="My Image" />
+<img src="p3ayzhZ2tMvRbQyMzD31TA.png" alt="My Image" />
